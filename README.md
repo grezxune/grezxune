@@ -51,7 +51,7 @@ I am currently collaborating with partners on **5+ active projects** using this 
 | Wisconsin Rapids Rafters Site | In Progress | Full platform rewrite for fan engagement and digital commerce |
 | Estate Bookkeeper | In Progress | Estate and trust accounting SaaS built with an attorney partner |
 | Sign Tracker | In Progress | Family ASL learning progress platform with secure sharing workflows |
-| [Workflow Studio](https://github.com/grezxune/workflow-studio) | In Progress | Desktop automation studio for human-like no-code workflows |
+| Workflow Studio | In Progress | Desktop automation studio for human-like no-code workflows ([Repo](https://github.com/grezxune/workflow-studio) · [Releases](https://github.com/grezxune/workflow-studio/releases)) |
 
 ## Experience
 - **Marriott International** — Senior Software Engineer (enterprise GraphQL systems)
