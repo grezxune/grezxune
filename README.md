@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tommytreb.com/techy-tommy-logo.png" alt="Tommy Treb" width="132" />
+  <img src="./assets/techy-tommy-logo-no-bg.png" alt="Tommy Treb" width="132" />
   <h1>Tommy Treb</h1>
   <p><strong>Dad • Husband • Agentic Innovator • Product Engineer</strong></p>
   <p>
